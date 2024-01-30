@@ -1,0 +1,90 @@
+body{
+    margin: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #0a0a0a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.profile-picture img {
+    width: 50vh;
+    margin: 4vh;
+    border-radius: 7%;
+}
+
+.title {
+    text-align: center;
+    margin: -3vh;
+}
+
+.ELA {
+    text-align: cEnter;
+    width: 80vh;
+    margin: 2vh;
+
+}
+
+.descriptionp {
+    text-align: center;
+    margin: 90vh;
+    width: 90vh;
+
+}
+
+.description {
+    background-color: NONE;
+    border-style: double;
+    
+}
+
+.ELA {
+    background-color: NONE;
+    border-style: groove;
+    
+}
+
+
+.social-media .button a {
+    display: inline-block;
+    width: 35vh;
+    height: 50px;
+    line-height: 50px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}
+
+.CONHECER.ASSINATURA {
+    background-color: NONE;
+    border: 2PX solid #00e1ff;
+}
+
+.CONHECER.ASSINATURA:hover {
+    background-color: #00e1ff;
+}
+
+.PAGAMENTOS {
+    background-color: NONE;
+    border: 2PX solid #00e1ff;
+}
+
+.PAGAMENTOS:hover {
+    background-color: #00e1ff;
+}
+
+.SUPORTE {
+    background-color: NONE;
+    border: 2PX solid #00e1ff;
+}
+
+.SUPORTE:hover {
+    background-color: #00e1ff;
+}
