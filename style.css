@@ -38,6 +38,11 @@ body{
 
 .profile {
     margin: -3vh;
+    width: 0vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 
 .description {
