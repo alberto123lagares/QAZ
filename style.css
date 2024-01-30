@@ -11,10 +11,11 @@ body{
     align-items: center;
     height: 100%;
 }
-.profile-picture img {
-    width: 50vh;
-    margin: 4vh;
-    border-radius: 7%;
+.QAZ img {
+    width: 60vh;
+    margin: 3vh;
+    width: 65vh;
+    border-radius: 8%;
 }
 
 .title {
