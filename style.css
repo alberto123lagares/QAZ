@@ -36,6 +36,10 @@ body{
 
 }
 
+.profile {
+    margin: -3vh;
+}
+
 .description {
     background-color: NONE;
     border-style: double;
