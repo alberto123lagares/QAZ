@@ -91,8 +91,7 @@ body{
 }
 
 .SUPORTE {
-    background-color: NONE;
-    border: 2PX solid #00e1ff;
+    background-color: rgb(4, 23, 58);
 }
 
 .SUPORTE:hover {
