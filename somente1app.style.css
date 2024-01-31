@@ -1,0 +1,35 @@
+body {
+    
+    margin: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #0a0a0a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+
+.QAZ img {
+    width: 1vh;
+    margin: 3vh;
+    width: 40vh;
+    border-radius: 8%;
+}
+
+.CATALOGO .button a {
+    display: inline-block;
+    width: 20vh;
+    height: 50px;
+    line-height: 40px;
+    margin: 50px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}

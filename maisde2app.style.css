@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #0a0a0a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 0%;
+}
+.QAZ img {
+    width: 1vh;
+    margin: 3vh;
+    width: 40vh;
+    border-radius: 8%;
+}
+
+
+
+.COMBO .button a {
+    display: inline-block;
+    width: 17vh;
+    height: 60px;
+    line-height: 30px;
+    margin: 15px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+}
+
+.BOTMENU a {
+    display: inline-block;
+    width: 35vh;
+    height: 49px;
+    line-height: 50px;
+    margin: 6px;
+    text-decoration: rgb(5, 82, 78);
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+    white-space: 50px;
+}
+
+.CONHECER.ASSINATURA {
+    background-color: NONE;
+    border: 3PX solid #00e1ff;
+    white-space: 50px;
+}
+
+.CONHECER.ASSINATURA:hover {
+    background-color: #0498ac;
+}
+
+.BOTMENU a {
+    background-color: rgb(5, 71, 80);
+    
+}
+
+.SUPORTE:hover {
+    background-color: #0498ac;
+}
